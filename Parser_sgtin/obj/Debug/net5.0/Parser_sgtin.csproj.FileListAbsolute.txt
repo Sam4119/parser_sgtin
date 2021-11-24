@@ -1,0 +1,16 @@
+C:\Users\Администратор\source\repos\Parser_sgtin\Parser_sgtin\bin\Debug\net5.0\Parser_sgtin.exe
+C:\Users\Администратор\source\repos\Parser_sgtin\Parser_sgtin\bin\Debug\net5.0\Parser_sgtin.deps.json
+C:\Users\Администратор\source\repos\Parser_sgtin\Parser_sgtin\bin\Debug\net5.0\Parser_sgtin.runtimeconfig.json
+C:\Users\Администратор\source\repos\Parser_sgtin\Parser_sgtin\bin\Debug\net5.0\Parser_sgtin.runtimeconfig.dev.json
+C:\Users\Администратор\source\repos\Parser_sgtin\Parser_sgtin\bin\Debug\net5.0\Parser_sgtin.dll
+C:\Users\Администратор\source\repos\Parser_sgtin\Parser_sgtin\bin\Debug\net5.0\ref\Parser_sgtin.dll
+C:\Users\Администратор\source\repos\Parser_sgtin\Parser_sgtin\bin\Debug\net5.0\Parser_sgtin.pdb
+C:\Users\Администратор\source\repos\Parser_sgtin\Parser_sgtin\obj\Debug\net5.0\Parser_sgtin.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Parser_sgtin\Parser_sgtin\obj\Debug\net5.0\Parser_sgtin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\Parser_sgtin\Parser_sgtin\obj\Debug\net5.0\Parser_sgtin.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\Parser_sgtin\Parser_sgtin\obj\Debug\net5.0\Parser_sgtin.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\Parser_sgtin\Parser_sgtin\obj\Debug\net5.0\Parser_sgtin.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Parser_sgtin\Parser_sgtin\obj\Debug\net5.0\Parser_sgtin.dll
+C:\Users\Администратор\source\repos\Parser_sgtin\Parser_sgtin\obj\Debug\net5.0\ref\Parser_sgtin.dll
+C:\Users\Администратор\source\repos\Parser_sgtin\Parser_sgtin\obj\Debug\net5.0\Parser_sgtin.pdb
+C:\Users\Администратор\source\repos\Parser_sgtin\Parser_sgtin\obj\Debug\net5.0\Parser_sgtin.genruntimeconfig.cache

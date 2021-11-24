@@ -1,0 +1,10 @@
+C:\Users\Администратор\source\repos\Parser_sgtin\ParserWF\bin\Debug\ParserWF.exe.config
+C:\Users\Администратор\source\repos\Parser_sgtin\ParserWF\bin\Debug\ParserWF.exe
+C:\Users\Администратор\source\repos\Parser_sgtin\ParserWF\bin\Debug\ParserWF.pdb
+C:\Users\Администратор\source\repos\Parser_sgtin\ParserWF\obj\Debug\ParserWF.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Parser_sgtin\ParserWF\obj\Debug\ParserWF.Form1.resources
+C:\Users\Администратор\source\repos\Parser_sgtin\ParserWF\obj\Debug\ParserWF.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Parser_sgtin\ParserWF\obj\Debug\ParserWF.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\Parser_sgtin\ParserWF\obj\Debug\ParserWF.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Parser_sgtin\ParserWF\obj\Debug\ParserWF.exe
+C:\Users\Администратор\source\repos\Parser_sgtin\ParserWF\obj\Debug\ParserWF.pdb
