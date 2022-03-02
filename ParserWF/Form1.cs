@@ -80,7 +80,7 @@ namespace ParserWF
                         }
                         if (char.IsUpper(sg[j]))
                         {
-                            parseLine += char.ToLower(sg[j]).ToString();
+                            parseLine += char.ToLower(sg[j]).ToString(); 
 
                         }
                         if (char.IsLower(sg[j]))
